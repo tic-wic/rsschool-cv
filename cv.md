@@ -10,4 +10,4 @@ function greet() {
     }
 ```
 **5.** Belarusian-Russian University, specialization: economist
-**6.** English level: A1
+**6.** English level: A2
